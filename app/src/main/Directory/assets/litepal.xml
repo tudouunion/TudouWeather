@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="tudou_weather"></dbname>
+    <version value="1"></version>
+    <list>
+        <mapping class="com.example.tudou.tudouweather.db.City"/>
+        <mapping class="com.example.tudou.tudouweather.db.County"/>
+        <mapping class="com.example.tudou.tudouweather.db.Province"/>
+    </list>
+</litepal>
